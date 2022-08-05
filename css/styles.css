@@ -35,7 +35,7 @@ hr{
 .name{
     font-family: 'Sacramento', cursive;
      line-height: 2;
-     font-size: 63px;
+     font-size: 300%;
     margin: 100px auto 0 auto;
     color: #B1E1FF;
     font-weight:600;
